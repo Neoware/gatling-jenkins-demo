@@ -1,4 +1,4 @@
-package io.gatling.jenkins.demo
+package io.gatling.jenkins
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
